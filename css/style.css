@@ -1,0 +1,19 @@
+
+
+.container{
+	padding-top: 30px;
+}
+
+input[type=text]:focus{
+	background-color: #fff;
+	color: #333;
+}
+
+button:hover{
+	background-color: #fff;
+	color: #333;
+}
+
+h1{
+	letter-spacing: 8px;
+}
